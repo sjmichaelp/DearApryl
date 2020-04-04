@@ -1,0 +1,132 @@
+#display_text {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+}
+
+#display_text2 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text3 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text4 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text5 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text6 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text7 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text8 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 20%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+#display_text9 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+
+#display_text10 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 45%;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
+
+
+#display_text11 {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    text-align: center;
+    z-index:-1;
+    top: 0;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 10em;
+    opacity: 0;
+}
